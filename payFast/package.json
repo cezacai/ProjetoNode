@@ -1,0 +1,24 @@
+{
+  "name": "payFast",
+  "version": "0.0.0",
+  "description": "Exercicio Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.13.4",
+    "express-load": "~1.1.15",
+    "body-parser": "~1.15.0",
+    "node": "0.0.0",
+    "mon": "0.0.8",
+    "mysql": "~2.10.2",
+    "moment": "~2.13.0",
+    "express-validator": "~2.20.3",
+    "async": "~2.0.0-rc.3",
+    "restify": "~4.0.4",
+    "soap": "~0.14.0"
+  }
+}
